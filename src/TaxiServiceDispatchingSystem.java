@@ -1,6 +1,3 @@
-//Zeye Gu
-//101036562
-//Java – Generate random integers in a range. (2017-03-26). https://www.mkyong.com/java/java-generate-random-integers-in-a-range/
 import javafx.animation.KeyFrame;
 import javafx.animation.PauseTransition;
 import javafx.animation.Timeline;
